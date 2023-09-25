@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\myseh\Desktop\Day11\springWebJpa"/>
+			<item value="C:\Users\myseh\Desktop\Day11"/>
 			<item value="D:\firstCommit\Online_Exam_System_Backend"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -12,5 +14,9 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
